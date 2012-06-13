@@ -1,4 +1,4 @@
-//
+// Compose URL
 function extrapolateUrlFromCookie(cookie) {
     var prefix = cookie.secure ? "https://" : "http://";
     if (cookie.domain.charAt(0) == ".")

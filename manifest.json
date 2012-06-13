@@ -1,10 +1,10 @@
 {
-  "name": "NY Times Cleanup",
+  "name": "Remove NY Times Cookies",
   "version": "1.0",
   "manifest_version": 2,
   "description": "Remove NY Times Cookies",
   "page_action": {
-    "default_icon": "icon.gif",
+    "default_icon": "icon.png",
     "default_title": "Remove NY Times Cookies",
     "default_popup": "popup.html"
   },
