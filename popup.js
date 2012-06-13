@@ -21,3 +21,6 @@ function deleteCookies() {
 }
 
 deleteCookies();
+
+// Keep on reading!
+chrome.tabs.reload(function() { window.close(); });
