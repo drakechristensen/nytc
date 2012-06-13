@@ -1,0 +1,10 @@
+A Chrome Extension that:
+- displays a page action icon when the tab's URL includes 'nytimes'
+- removes cookies matching 'nytimes.com' domain; displays each in a pop-up
+- reloads the current tab; this closes the pop-up so that you often won't see it
+
+To install:
+1. Wrench icon --> Tools --> Extensions
+2. Select developer mode
+3. Load Unpacked Extension
+4. Select root folder
