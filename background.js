@@ -1,9 +1,6 @@
 // TODO:
-// - Why is click event triggered two times
 // - Also remove HTML5 local storage
 // - Reload current tab
-// - add credits for extrapolateURLFromCookie
-// - create git repository
 // - publish on github
 // - is having this enabled screwing up the Ads Block Plus extension?
 
